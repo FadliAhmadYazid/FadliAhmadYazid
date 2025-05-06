@@ -325,93 +325,11 @@ Mobile application to help university students manage their studies, deadlines, 
 **Features:** Schedule management, Grade tracking, Campus map
 </details>
 
-## 📈 Weekly Coding Stats
-
-<div align="center">
-  
-<!--START_SECTION:waka-->
-```text
-JavaScript   12 hrs 40 mins  ███████████▒░░░░░░░  45.23%
-TypeScript   8 hrs 35 mins   ███████▒░░░░░░░░░░░  30.64%
-HTML         2 hrs 25 mins   ██░░░░░░░░░░░░░░░░░   8.63%
-CSS          2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░   7.76%
-Python       1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░   4.78%
-JSON         50 mins         █░░░░░░░░░░░░░░░░░░   2.96%
-```
-<!--END_SECTION:waka-->
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎮 Let's Play a Game!
-
-<div align="center">
-  <p><strong>Take a break and have some fun with these mini-games!</strong></p>
-  <p>(Click on the game images to play)</p>
-  
-  <a href="https://github.com/emjose/chess-game#play-the-game-g">
-    <img src="https://github.com/emjose/chess-game/blob/main/Assets/preview-8.png" alt="Chess Game" height="90" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/emjose/pac-man-game#play-the-game-g">
-    <img src="https://github.com/emjose/pac-man-game/blob/main/Assets/preview-1a.png" alt="Pac-Man Game" height="90" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/emjose/snake-game#play-the-game-g">
-    <img src="https://github.com/emjose/snake-game/blob/main/Assets/preview-1.png" alt="Snake Game" height="90" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/emjose/space-invaders-game#play-the-game-g">
-    <img src="https://github.com/emjose/space-invaders-game/blob/main/Assets/preview-1.png" alt="Space Invaders Game" height="90" />
-  </a>
-  
-  <br>
-  <br>
-  
-  <details>
-    <summary><b>🎲 Play Tic-Tac-Toe (GitHub Flavored Markdown)</b></summary>
-    <br>
-    <p>Click on a number to make your move (X goes first)!</p>
-    <pre>
-     1 | 2 | 3 
-    ---|---|---
-     4 | 5 | 6 
-    ---|---|---
-     7 | 8 | 9 
-    </pre>
-    <p>Current game board: New game - X's turn</p>
-    <p><i>Note: This is a simulated game board - the interactive version would use GitHub Actions to update the board after each move.</i></p>
-  </details>
-  
-  <details>
-    <summary><b>🎯 Play GitHub Wordle</b></summary>
-    <br>
-    <p>Guess the hidden 5-letter programming word in 6 tries!</p>
-    <pre>
-    ⬜⬜⬜⬜⬜
-    ⬜⬜⬜⬜⬜
-    ⬜⬜⬜⬜⬜
-    ⬜⬜⬜⬜⬜
-    ⬜⬜⬜⬜⬜
-    ⬜⬜⬜⬜⬜
-    </pre>
-    <p><i>Note: This is a placeholder for the interactive GitHub Wordle game that would use GitHub Actions to update after each guess.</i></p>
-  </details>
-  
-  <br>
-  <a href="https://readme-jokes.vercel.app/api?theme=tokyonight">
-    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" width="500" />
-  </a>
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎯 Goals for 2025
 
-<img align="right" width="250" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
+<img align="right" width="250" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 - [ ] Contribute to 5+ open source projects
 - [ ] Complete my bachelor's degree with excellent grades
