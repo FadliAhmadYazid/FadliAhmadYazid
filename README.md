@@ -1,7 +1,7 @@
 <div align="center">
-  
-# <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px" height="29px"> FADLI AHMAD YAZID <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="29px" height="29px">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi,%20I%20am%20Fadli%20Ahmad%20Yazid&fontSize=30&fontAlignY=30&animation=fadeIn" width="100%"/>
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00AAFF&center=true&vCenter=true&random=false&width=600&lines=Informatics+Student;Web+Developer;Mobile+App+Enthusiast;Data+Science+Explorer;USK+Semester+6)](https://github.com/FadliAhmadYazid)
 
 <div style="background: linear-gradient(90deg, #00AAFF 0%, #00295F 100%); border-radius: 10px; padding: 20px; margin: 20px 0;">
@@ -226,84 +226,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/FadliAhmadYazid/project-name">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FadliAhmadYazid&repo=project-name&theme=tokyonight" />
-</a>
-<a href="https://github.com/FadliAhmadYazid/another-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FadliAhmadYazid&repo=another-project&theme=tokyonight" />
-</a>
-
-</div>
-
-<details>
-<summary><b>🚀 E-Commerce Platform</b></summary>
-<br>
-<p align="center">
-  <a href="#"><img src="https://media0.giphy.com/media/uprwwjptZW4Za/giphy.gif" width="300px"></a>
-</p>
-
-A full-stack e-commerce platform with secure payment processing, user authentication, and admin dashboard.
-
-**Technologies:** React, Node.js, Express, MongoDB, Stripe API<br>
-**Features:** Shopping cart, User reviews, Admin panel, Order tracking
-</details>
-
-<details>
-<summary><b>🌐 Social Media Dashboard</b></summary>
-<br>
-<p align="center">
-  <a href="#"><img src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300px"></a>
-</p>
-
-A responsive dashboard for social media analytics with real-time data visualization.
-
-**Technologies:** Vue.js, Express, Chart.js, Socket.io<br>
-**Features:** Real-time analytics, Custom reports, Performance indicators
-</details>
-
-<details>
-<summary><b>📱 Student Companion App</b></summary>
-<br>
-<p align="center">
-  <a href="#"><img src="https://media2.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif" width="300px"></a>
-</p>
-
-Mobile application to help university students manage their studies, deadlines, and campus activities.
-
-**Technologies:** React Native, Firebase, Redux<br>
-**Features:** Schedule management, Grade tracking, Campus map
-</details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📈 Weekly Coding Stats
-
-<div align="center">
-  
-<!--START_SECTION:waka-->
-```text
-JavaScript   12 hrs 40 mins  ███████████▒░░░░░░░  45.23%
-TypeScript   8 hrs 35 mins   ███████▒░░░░░░░░░░░  30.64%
-HTML         2 hrs 25 mins   ██░░░░░░░░░░░░░░░░░   8.63%
-CSS          2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░   7.76%
-Python       1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░   4.78%
-JSON         50 mins         █░░░░░░░░░░░░░░░░░░   2.96%
-```
-<!--END_SECTION:waka-->
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🎯 Goals for 2025
 
-<img align="right" width="250" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
+<img align="right" width="250" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 - [ ] Contribute to 5+ open source projects
 - [ ] Complete my bachelor's degree with excellent grades
