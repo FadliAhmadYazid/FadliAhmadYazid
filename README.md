@@ -1,8 +1,6 @@
 ![Header](./github-header-image1.png)
 
 <div align="center">
-  
-# ✨ FADLI AHMAD YAZID ✨
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00AAFF&center=true&vCenter=true&random=false&width=600&lines=Informatics+Student;Web+Developer;Mobile+App+Enthusiast;Data+Science+Explorer;USK+Semester+6)](https://github.com/FadliAhmadYazid)
 
