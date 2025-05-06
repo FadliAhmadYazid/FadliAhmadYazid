@@ -22,23 +22,66 @@
 
 </div>
 
-## 🌟 About Me
+## <div align="center"><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30px" height="30px"> About Me</div>
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
-
-**Hello world!** I'm a passionate Informatics student at Universitas Syiah Kuala with a love for creating innovative digital solutions. Currently in my 6th semester, I'm exploring the fascinating worlds of software development, AI, and data science.
-
-- 🎓 Currently studying Informatics at **Universitas Syiah Kuala**
-- 💻 Working on developing my portfolio of web and mobile applications
-- 🔭 Researching machine learning applications for real-world problems
-- 🌱 Learning cloud computing and advanced frameworks
-- 🚀 Looking to collaborate on open-source projects
-- ⚡ Fun fact: I can debug code and play chess at the same time!
+<table border="0">
+ <tr>
+    <td width="60%">
+      <h3 align="center">Specializing in Web, Mobile & AI Development</h3>
+      <p align="center">
+        <em>
+          "At the intersection of design and intelligence lies the future of technology"
+        </em>
+      </p>
+      <br>
+      <p>
+        As an <b>Informatics Student</b> at Universitas Syiah Kuala in my 6th semester, I've focused my passion and expertise on four key technology domains that are shaping our digital future:
+      </p>
+      <ul>
+        <li>🌐 <b>Web Development</b> - Building responsive, intuitive interfaces with modern frameworks like React, Next.js, and Vue.js. I create seamless, performant web applications that prioritize user experience while maintaining clean, maintainable codebases.</li>
+        <li>📱 <b>Mobile Development</b> - Crafting native and cross-platform applications that deliver desktop-quality experiences in the palm of your hand. My work with Flutter, React Native, and Kotlin allows me to build once and deploy everywhere.</li>
+        <li>🧠 <b>Machine Learning</b> - Developing predictive models and intelligent systems that learn from data to solve complex problems. From classical algorithms to neural networks, I transform raw information into actionable insights.</li>
+        <li>🤖 <b>Artificial Intelligence</b> - Exploring the cutting edge of AI to create systems that can understand, reason, and adapt. I'm particularly interested in applying these technologies to solve real-world challenges in accessibility and education.</li>
+      </ul>
+      <p>
+        My approach combines technical precision with creative innovation—I don't just build what's been built before; I push boundaries to create solutions that surprise and delight. Currently, I'm working on projects that integrate these four domains, particularly focused on how AI can enhance mobile and web experiences.
+      </p>
+      <div align="center">
+        <b>Interested in collaboration? Let's create something intelligent together!</b>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330px">
+        <br><br>
+        <a href="mailto:fadliahmad@example.com">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+        </a>
+        <a href="https://linkedin.com/in/fadli-ahmad-yazid">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+        <a href="https://github.com/FadliAhmadYazid">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        </a>
+        <br><br>
+        <div style="background: #1a1b27; border-radius: 8px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+          <p align="center" style="color: #70a5fd; margin: 5px 0;">
+            <b>Current Focus Project:</b>
+          </p>
+          <p align="center" style="color: white; margin: 5px 0;">
+            AI-Powered Learning Platform
+          </p>
+          <p align="center" style="color: #white; font-size: 0.9em; margin: 5px 0;">
+            Combining React, Flutter, and ML to create an adaptive learning experience
+          </p>
+        </div>
+      </div>
+    </td>
+ </tr>
+</table>
 
 <div align="center">
-  <a href="mailto:fadliahmad@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="3">
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -213,22 +256,101 @@
   <img src="https://github-profile-trophy.vercel.app/?username=FadliAhmadYazid&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="trophy">
   <br/><br/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FadliAhmadYazid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FadliAhmadYazid&layout=compact&langs_count=7&theme=tokyonight"/>
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FadliAhmadYazid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FadliAhmadYazid&layout=compact&langs_count=7&theme=tokyonight"/>
+  </div>
   
   <br/>
   
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FadliAhmadYazid&theme=tokyonight" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FadliAhmadYazid&theme=tokyonight" />
+  <div>
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=FadliAhmadYazid&theme=tokyonight" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FadliAhmadYazid&theme=tokyonight" />
+  </div>
 </div>
 
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FadliAhmadYazid&theme=tokyo-night&hide_border=true&bg_color=0D1117&point=FFFFFF&line=4DADFF)](https://github.com/FadliAhmadYazid)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🏆 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/FadliAhmadYazid/project-name">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FadliAhmadYazid&repo=project-name&theme=tokyonight" />
+</a>
+<a href="https://github.com/FadliAhmadYazid/another-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FadliAhmadYazid&repo=another-project&theme=tokyonight" />
+</a>
+
+</div>
+
+<details>
+<summary><b>🚀 E-Commerce Platform</b></summary>
+<br>
+<p align="center">
+  <a href="#"><img src="https://media0.giphy.com/media/uprwwjptZW4Za/giphy.gif" width="300px"></a>
+</p>
+
+A full-stack e-commerce platform with secure payment processing, user authentication, and admin dashboard.
+
+**Technologies:** React, Node.js, Express, MongoDB, Stripe API<br>
+**Features:** Shopping cart, User reviews, Admin panel, Order tracking
+</details>
+
+<details>
+<summary><b>🌐 Social Media Dashboard</b></summary>
+<br>
+<p align="center">
+  <a href="#"><img src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300px"></a>
+</p>
+
+A responsive dashboard for social media analytics with real-time data visualization.
+
+**Technologies:** Vue.js, Express, Chart.js, Socket.io<br>
+**Features:** Real-time analytics, Custom reports, Performance indicators
+</details>
+
+<details>
+<summary><b>📱 Student Companion App</b></summary>
+<br>
+<p align="center">
+  <a href="#"><img src="https://media2.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif" width="300px"></a>
+</p>
+
+Mobile application to help university students manage their studies, deadlines, and campus activities.
+
+**Technologies:** React Native, Firebase, Redux<br>
+**Features:** Schedule management, Grade tracking, Campus map
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📈 Weekly Coding Stats
+
+<div align="center">
+  
+<!--START_SECTION:waka-->
+```text
+JavaScript   12 hrs 40 mins  ███████████▒░░░░░░░  45.23%
+TypeScript   8 hrs 35 mins   ███████▒░░░░░░░░░░░  30.64%
+HTML         2 hrs 25 mins   ██░░░░░░░░░░░░░░░░░   8.63%
+CSS          2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░   7.76%
+Python       1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░   4.78%
+JSON         50 mins         █░░░░░░░░░░░░░░░░░░   2.96%
+```
+<!--END_SECTION:waka-->
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🎯 Goals for 2025
 
-<img align="right" width="250" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="right" width="250" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 
 - [ ] Contribute to 5+ open source projects
 - [ ] Complete my bachelor's degree with excellent grades
