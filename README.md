@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00AAFF&center=true&vCenter=true&random=false&width=600&lines=Informatics+Student;Web+Developer;Mobile+App+Enthusiast;Data+Science+Explorer;USK+Semester+6)](https://github.com/FadliAhmadYazid)
 
-<img src="https://raw.githubusercontent.com/FadliAhmadYazid/FadliAhmadYazid/main/header.svg" width="800" alt="Fadli Ahmad Yazid"/>
+<img src="https://raw.githubusercontent.com/FadliAhmadYazid/FadliAhmadYazid/main/photo1.jpg" width="800" alt="Fadli Ahmad Yazid"/>
 
 </div>
 
