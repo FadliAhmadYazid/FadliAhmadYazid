@@ -1,10 +1,14 @@
-![Header](./github-header-image1.png)
-
 <div align="center">
+  
+# <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px" height="29px"> FADLI AHMAD YAZID <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="29px" height="29px">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00AAFF&center=true&vCenter=true&random=false&width=600&lines=Informatics+Student;Web+Developer;Mobile+App+Enthusiast;Data+Science+Explorer;USK+Semester+6)](https://github.com/FadliAhmadYazid)
 
-<img src="https://raw.githubusercontent.com/FadliAhmadYazid/FadliAhmadYazid/main/photo1.jpg" width="300" alt="Fadli Ahmad Yazid"/>
+<div style="background: linear-gradient(90deg, #00AAFF 0%, #00295F 100%); border-radius: 10px; padding: 20px; margin: 20px 0;">
+  <h2 style="color: white; margin: 0;">Welcome to my digital playground! 👨‍💻</h2>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
@@ -20,7 +24,7 @@
 
 ## 🌟 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 **Hello world!** I'm a passionate Informatics student at Universitas Syiah Kuala with a love for creating innovative digital solutions. Currently in my 6th semester, I'm exploring the fascinating worlds of software development, AI, and data science.
 
@@ -37,71 +41,190 @@
   <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💻 Tech Stack
 
 <div align="center">
 
-### 🔥 Programming Languages
-  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  
-### 🌐 Web Development
-  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="140" height="112.43">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140" height="112.43">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
+      <br>Redux
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+      <br>Webpack
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+  </tr>
+</table>
 
-### 📱 Mobile Development
+<details open>
+<summary><h3>🌟 More Technologies</h3></summary>
+<br>
   
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+<div style="display: flex; align-items: flex-start; align: center">
+  <table align="center">
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+        <br>HTML5
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <br>CSS
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+        <br>Bootstrap
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+        <br>Tailwind
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="materialui" />
+        <br>MUI
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
+        <br>NodeJS
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="expressjs" />
+        <br>Express
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJS" />
+        <br>NextJS
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        <br>MongoDB
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+        <br>PostgreSQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+        <br>Redis
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+        <br>Firebase
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
+        <br>VSCode
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+        <br>Laravel
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+        <br>Flutter
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+        <br>Kotlin
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+        <br>Figma
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+        <br>Postman
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+        <br>Linux
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+        <br>GraphQL
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 🛢️ Databases
-  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🔧 Tools & Platforms
-  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</details>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FadliAhmadYazid&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="trophy">
+  <br/><br/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FadliAhmadYazid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FadliAhmadYazid&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
+  
+  <br/>
+  
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FadliAhmadYazid&theme=tokyonight" />
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FadliAhmadYazid&theme=tokyonight" />
 </div>
 
----
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FadliAhmadYazid&theme=tokyo-night&hide_border=true&bg_color=0D1117&point=FFFFFF&line=4DADFF)](https://github.com/FadliAhmadYazid)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 Featured Projects
 
@@ -116,30 +239,71 @@
 
 </div>
 
-### 🚀 E-Commerce Platform
+<details>
+<summary><b>🚀 E-Commerce Platform</b></summary>
+<br>
+<p align="center">
+  <a href="#"><img src="https://media0.giphy.com/media/uprwwjptZW4Za/giphy.gif" width="300px"></a>
+</p>
 
 A full-stack e-commerce platform with secure payment processing, user authentication, and admin dashboard.
 
-**Technologies:** React, Node.js, Express, MongoDB, Stripe API
+**Technologies:** React, Node.js, Express, MongoDB, Stripe API<br>
 **Features:** Shopping cart, User reviews, Admin panel, Order tracking
+</details>
 
-### 🌐 Social Media Dashboard
+<details>
+<summary><b>🌐 Social Media Dashboard</b></summary>
+<br>
+<p align="center">
+  <a href="#"><img src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300px"></a>
+</p>
 
 A responsive dashboard for social media analytics with real-time data visualization.
 
-**Technologies:** Vue.js, Express, Chart.js, Socket.io
+**Technologies:** Vue.js, Express, Chart.js, Socket.io<br>
 **Features:** Real-time analytics, Custom reports, Performance indicators
+</details>
 
-### 📱 Student Companion App
+<details>
+<summary><b>📱 Student Companion App</b></summary>
+<br>
+<p align="center">
+  <a href="#"><img src="https://media2.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif" width="300px"></a>
+</p>
 
 Mobile application to help university students manage their studies, deadlines, and campus activities.
 
-**Technologies:** React Native, Firebase, Redux
+**Technologies:** React Native, Firebase, Redux<br>
 **Features:** Schedule management, Grade tracking, Campus map
+</details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📈 Weekly Coding Stats
+
+<div align="center">
+  
+<!--START_SECTION:waka-->
+```text
+JavaScript   12 hrs 40 mins  ███████████▒░░░░░░░  45.23%
+TypeScript   8 hrs 35 mins   ███████▒░░░░░░░░░░░  30.64%
+HTML         2 hrs 25 mins   ██░░░░░░░░░░░░░░░░░   8.63%
+CSS          2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░   7.76%
+Python       1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░   4.78%
+JSON         50 mins         █░░░░░░░░░░░░░░░░░░   2.96%
+```
+<!--END_SECTION:waka-->
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎯 Goals for 2025
+
+<img align="right" width="250" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 
 - [ ] Contribute to 5+ open source projects
 - [ ] Complete my bachelor's degree with excellent grades
@@ -148,13 +312,15 @@ Mobile application to help university students manage their studies, deadlines, 
 - [ ] Secure an internship at a top tech company
 - [ ] Launch a personal developer blog
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
 ## 💭 Inspirational Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="600" />
+
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 ---
 
@@ -169,5 +335,5 @@ Mobile application to help university students manage their studies, deadlines, 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" width="100%"/>
 </div>
