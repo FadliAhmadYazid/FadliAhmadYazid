@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi,%20I%20am%20Fadli%20Ahmad%20Yazid&fontSize=30&fontAlignY=30&animation=fadeIn" width="100%"/>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00AAFF&center=true&vCenter=true&random=false&width=600&lines=Informatics+Student;Web+Developer;Mobile+App+Enthusiast;Data+Science+Explorer;USK+Semester+6)](https://github.com/FadliAhmadYazid)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00AAFF&center=true&vCenter=true&random=false&width=600&lines=Informatics+Student;Web+Developer;Mobile+App+Enthusiast;Data+Science+Explorer;USK+Semester+6;Prompt+Engineer)](https://github.com/FadliAhmadYazid)
 
 <div style="background: linear-gradient(90deg, #00AAFF 0%, #00295F 100%); border-radius: 10px; padding: 20px; margin: 20px 0;">
   <h2 style="color: white; margin: 0;">Welcome to my digital playground! 👨‍💻</h2>
